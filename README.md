@@ -16,6 +16,6 @@ prod_br_petroleo_gas_2010_2023.pdf
 
 Notas:
 ----------------------------------
-Apesar da disponibilização do notebook, recomenda-se o acesso diretamente via link disponibilizado acima, de acesso direto ao Google Colab.
+Apesar da disponibilização do notebook, recomenda-se explorar as visualizações via link disponibilizado acima, de acesso direto ao Google Colab.
 
 Deve-se executar todas as células antes de interagir com as visualizações, para download do banco de dados, carregamento pacotes necessários e pré-configurações definidas para os plots.
