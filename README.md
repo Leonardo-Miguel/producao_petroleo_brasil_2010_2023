@@ -3,9 +3,11 @@ O repósitório consiste em visualizações interativas, produzidas utilizando j
 O Google Collab foi escolhida como plataofmra de desenvolvimento, devido às ferramentas de iteração disponíveis.
 
 * Link de acesso à ferramenta para visualização:
+
 https://drive.google.com/file/d/1pij7-HHgu61Xtz7k8UoZHWe2xGIWsZOx/view?usp=drive_link
 
 * Link da apresentação em vídeo:
+
 https://youtu.be/YsoD9ZlIPcc
 
 Nota:
