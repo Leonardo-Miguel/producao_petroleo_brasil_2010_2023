@@ -1,6 +1,6 @@
 O repósitório consiste em visualizações interativas, produzidas utilizando jupyter notebook no ambiente do Google Colab, que visam avaliar panorama da produção nacional de petróleo e gás natural entre 2010 e 2023. 
 
-O Google Colab foi escolhida como plataofmra de desenvolvimento, devido às ferramentas de iteração disponíveis.
+O Google Colab foi escolhido como plataofmra de desenvolvimento, devido às ferramentas de iteração disponíveis.
 
 * Link de acesso à ferramenta para visualização:
 
